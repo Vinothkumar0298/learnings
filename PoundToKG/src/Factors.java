@@ -15,6 +15,8 @@ public class Factors {
         while(value>0){
             if(number%value==0){
                 System.out.println(number/value);
+
+                // comment check 
             }
             value--;
         }
